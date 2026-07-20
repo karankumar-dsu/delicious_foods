@@ -101,20 +101,6 @@ git clone https://github.com/karankumar-dsu/delicious-foods.git
 
 ---
 
-# 📸 Project Preview
-
-> Replace these with actual screenshots of your application.
-
-| Home Page | Login Page |
-|-----------|------------|
-| Add Screenshot | Add Screenshot |
-
-| Menu | Admin Dashboard |
-|------|-----------------|
-| Add Screenshot | Add Screenshot |
-
----
-
 # 🎯 Future Enhancements
 
 - 💳 Online Payment Gateway
